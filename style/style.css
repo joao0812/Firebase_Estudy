@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.addAluno {
+    padding: 15px;
+    border-radius: 15px;
+    border-style: none;
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+.addAluno:hover {
+    background-color: rgb(102, 217, 255);
+}
